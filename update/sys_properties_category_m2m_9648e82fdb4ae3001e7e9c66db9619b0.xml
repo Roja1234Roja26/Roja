@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="College_Property_Category">10d76067db4ae3001e7e9c66db961944</category>
+        <order>100</order>
+        <property display_value="x_283979_student1.Loginattempts" name="x_283979_student1.Loginattempts">eef8a06fdb4ae3001e7e9c66db961986</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-04 04:46:31</sys_created_on>
+        <sys_id>9648e82fdb4ae3001e7e9c66db9619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_283979_student1.Loginattempts.College_Property_Category</sys_name>
+        <sys_package display_value="Student1" source="x_283979_student1">b09ffaa1dbc223001e7e9c66db9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student1">b09ffaa1dbc223001e7e9c66db9619ad</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_9648e82fdb4ae3001e7e9c66db9619b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-04 04:46:31</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

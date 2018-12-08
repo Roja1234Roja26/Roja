@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_grid_canvas" unload_date="2018-12-08 11:32:31">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab 2">c4e78230db5a63001e7e9c66db96191d</legacy_page>
+        <name>PA New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-08 08:46:31</sys_created_on>
+        <sys_id>cce78230db5a63001e7e9c66db96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab 2</sys_name>
+        <sys_package display_value="Student1" source="x_283979_student1">b09ffaa1dbc223001e7e9c66db9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student1">b09ffaa1dbc223001e7e9c66db9619ad</sys_scope>
+        <sys_update_name>sys_grid_canvas_cce78230db5a63001e7e9c66db96191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-08 08:46:31</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

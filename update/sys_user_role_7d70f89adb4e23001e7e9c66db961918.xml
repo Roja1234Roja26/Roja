@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>sample role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_283979_student1.role1</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>role1</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-30 08:12:43</sys_created_on>
+        <sys_id>7d70f89adb4e23001e7e9c66db961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_283979_student1.role1</sys_name>
+        <sys_package display_value="Student1" source="x_283979_student1">b09ffaa1dbc223001e7e9c66db9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student1">b09ffaa1dbc223001e7e9c66db9619ad</sys_scope>
+        <sys_update_name>sys_user_role_7d70f89adb4e23001e7e9c66db961918</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-30 08:12:43</sys_updated_on>
+    </sys_user_role>
+</record_update>
